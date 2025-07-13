@@ -1,6 +1,6 @@
 # 📊 Portafolio - Analista de Datos | Renato Cahuana Silva
 
-¡Hola! Soy ingeniero industrial recién egresado con interés en el análisis de datos. Este portafolio recopila mis proyectos donde aplico **SQL, Power BI y Python** para resolver problemas reales de negocio.
+Soy ingeniero industrial recién egresado con interés en el análisis de datos. Este portafolio recopila mis proyectos donde aplico **SQL, Power BI y Python** para resolver problemas reales de negocio.
 
 ---
 
